@@ -1,0 +1,4 @@
+name: Spigot template
+author: Mik
+version: @version@
+main: org.example.spigot_template.SpigotTemplate
